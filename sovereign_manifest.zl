@@ -1,0 +1,5 @@
+// x-zdos-complete - Sovereign ZDOS Enclave
+module x-zdos-complete {
+    verify_zero_legacy();
+    connect_dsn_mesh();
+}
